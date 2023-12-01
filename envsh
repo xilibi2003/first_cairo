@@ -1,0 +1,3 @@
+export STARKNET_RPC="https://starknet-goerli.g.alchemy.com/v2/xxxxxx"
+export STARKNET_ACCOUNT=".wallets/account.json"
+export STARKNET_KEYSTORE=".wallets/keystore.json"
